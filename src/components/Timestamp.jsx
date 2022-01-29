@@ -1,5 +1,5 @@
-function Message({ timestamp }) {
+function Timestamp({ timestamp }) {
   return <span className="timestamp">{timestamp}</span>;
 }
 
-export default Message;
+export default Timestamp;
